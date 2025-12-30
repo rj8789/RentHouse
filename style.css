@@ -123,7 +123,7 @@ header {
 }
 
 .home-text h1 {
-    color: var(--bg-color);
+    color: var(--black);
     font-size: 2rem;
     margin-bottom: 1rem;
 }
@@ -608,4 +608,5 @@ header {
     .footer {
         border-radius: 3rem 0 0 0;
     }
+
 }
